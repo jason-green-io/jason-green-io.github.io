@@ -4,7 +4,6 @@ title: "About"
 permalink: /about/
 ---
 
-
 I can be reached via email jason@green.io, my twitter account is @jason_green_io.
 
 I've been geeking out since I was 5. It started with a Radio Shack TRS-80 I plugged in to a small TV on channel 3. You had to transfer printed code to digital code to play Zaxxon. We used a tape player to cload Lunar Rover.
