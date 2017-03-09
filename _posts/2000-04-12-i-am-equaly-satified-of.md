@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I am equaly satified of"
 date: 2000-4-12 12:26:0
 tags: 

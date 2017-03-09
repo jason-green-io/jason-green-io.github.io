@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "ohhh.. shadows"
 date: 2003-10-30 8:49:0
 tags: 

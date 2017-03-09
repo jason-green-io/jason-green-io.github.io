@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "So I'm done updating 00"
 date: 2002-3-30 23:3:0
 tags: 

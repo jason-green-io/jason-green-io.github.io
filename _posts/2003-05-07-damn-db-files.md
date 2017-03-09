@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "damn db files"
 date: 2003-5-7 21:35:0
 tags: 

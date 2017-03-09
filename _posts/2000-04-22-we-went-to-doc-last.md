@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "We went to Doc's last"
 date: 2000-4-22 11:17:0
 tags: 

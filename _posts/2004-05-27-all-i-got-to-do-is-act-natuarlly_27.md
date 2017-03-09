@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "all I got to do is act natuarlly"
 date: 2004-5-27 0:29:0
 tags: 

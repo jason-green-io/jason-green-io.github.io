@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "fuck fuck fuck fuck fuck fuck fuck"
 date: 2004-4-5 23:3:0
 tags: 

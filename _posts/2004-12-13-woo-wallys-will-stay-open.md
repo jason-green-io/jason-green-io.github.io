@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "woo, Wally's will stay open"
 date: 2004-12-13 0:45:0
 tags: 

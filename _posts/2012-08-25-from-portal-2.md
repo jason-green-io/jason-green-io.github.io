@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "From Portal 2"
 date: 2012-8-25 20:26:0
 tags: 

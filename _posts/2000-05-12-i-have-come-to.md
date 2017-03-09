@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I have come to a"
 date: 2000-5-12 7:20:0
 tags: 

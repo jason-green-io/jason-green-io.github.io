@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The counter is stuck at"
 date: 2002-6-20 8:6:0
 tags: 

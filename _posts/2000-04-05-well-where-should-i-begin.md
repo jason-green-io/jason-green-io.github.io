@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Well! Where should I begin,"
 date: 2000-4-5 23:28:0
 tags: 

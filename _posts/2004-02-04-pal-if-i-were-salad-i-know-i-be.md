@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Pal if I were a salad, I know I'd be splashing my dressing"
 date: 2004-2-4 0:3:0
 tags: 

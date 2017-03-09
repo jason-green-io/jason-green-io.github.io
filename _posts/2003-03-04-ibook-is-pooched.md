@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "iBook is pooched"
 date: 2003-3-4 21:38:0
 tags: 

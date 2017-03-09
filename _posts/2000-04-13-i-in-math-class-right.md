@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm in math class right"
 date: 2000-4-13 6:20:0
 tags: 

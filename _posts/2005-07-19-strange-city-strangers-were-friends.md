@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "strange city, strangers were friends"
 date: 2005-7-19 19:32:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "That picture is of a"
 date: 2000-4-24 18:10:0
 tags: 

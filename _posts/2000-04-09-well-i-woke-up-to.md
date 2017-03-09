@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Well, I woke up to"
 date: 2000-4-9 7:40:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Wasabi!"
 date: 2000-4-8 13:41:0
 tags: 

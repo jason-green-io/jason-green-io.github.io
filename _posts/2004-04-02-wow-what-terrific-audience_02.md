@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "wow, what a terrific audience"
 date: 2004-4-2 21:43:0
 tags: 

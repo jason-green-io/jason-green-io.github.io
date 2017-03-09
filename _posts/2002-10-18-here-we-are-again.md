@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Here we are again"
 date: 2002-10-18 0:33:0
 tags: 

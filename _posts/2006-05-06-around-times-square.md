@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Around Times Square"
 date: 2006-5-6 20:47:0
 tags: 

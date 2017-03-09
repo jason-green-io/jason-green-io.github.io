@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I caved and bought Blogger"
 date: 2002-12-16 11:31:0
 tags: 

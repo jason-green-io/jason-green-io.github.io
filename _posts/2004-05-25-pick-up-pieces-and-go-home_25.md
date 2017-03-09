@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "pick up the pieces and go home"
 date: 2004-5-25 0:3:0
 tags: 

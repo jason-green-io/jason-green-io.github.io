@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "popularity of blogs"
 date: 2003-2-20 22:8:0
 tags: 

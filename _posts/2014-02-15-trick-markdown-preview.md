@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Trick markdown preview"
 published: true
 date: 2014-02-15 13:29
@@ -12,7 +12,7 @@ You can trick your markdown preview into correctly rendering the front matter fr
 Just leave a space before the last `---`. Like so.
 
     ---
-    layout: post
+    layout: single
     title: "Title"
     published: true
     date: 2014-01-01

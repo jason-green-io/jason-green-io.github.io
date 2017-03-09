@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Well now. That was the"
 date: 2000-4-8 7:7:0
 tags: 

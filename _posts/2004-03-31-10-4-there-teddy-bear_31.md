@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "10-4 there teddy bear"
 date: 2004-3-31 22:21:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Another home for Ma Brain,"
 date: 2001-7-2 19:51:0
 tags: 

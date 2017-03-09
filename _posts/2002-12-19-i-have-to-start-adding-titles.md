@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I have to start adding titles"
 date: 2002-12-19 8:5:0
 tags: 

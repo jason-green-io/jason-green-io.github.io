@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Done watching Momento backwards.. loved"
 date: 2002-10-20 21:0:0
 tags: 

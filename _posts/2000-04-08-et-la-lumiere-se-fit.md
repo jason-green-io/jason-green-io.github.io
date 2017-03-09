@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Et la lumiere se fit!"
 date: 2000-4-8 15:40:0
 tags: 

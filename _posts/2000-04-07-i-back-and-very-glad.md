@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm back. And very glad"
 date: 2000-4-7 10:39:0
 tags: 

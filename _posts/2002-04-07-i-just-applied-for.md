@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I just applied for a"
 date: 2002-4-7 11:40:0
 tags: 

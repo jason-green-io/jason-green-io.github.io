@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "straight up now tell me"
 date: 2004-3-3 13:14:0
 tags: 

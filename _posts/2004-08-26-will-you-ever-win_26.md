@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Will You Ever Win"
 date: 2004-8-26 20:17:0
 tags: 

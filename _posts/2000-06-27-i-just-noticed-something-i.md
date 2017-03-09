@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I just noticed something.. I'm"
 date: 2000-6-27 12:19:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Future leaders having fun"
 date: 2012-10-19 20:41:0
 tags: 

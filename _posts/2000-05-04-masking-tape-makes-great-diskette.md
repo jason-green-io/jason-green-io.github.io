@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Masking tape makes great diskette"
 date: 2000-5-4 10:25:0
 tags: 

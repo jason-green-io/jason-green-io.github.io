@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "What fun! Tonight, (last night),"
 date: 2002-10-9 20:25:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "00:10 something i just"
 date: 2000-5-10 20:10:0
 tags: 

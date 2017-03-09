@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "mmm party mix"
 date: 2003-1-28 11:42:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Aiight.. I'm updating. Lots to"
 date: 2002-11-9 22:17:0
 tags: 

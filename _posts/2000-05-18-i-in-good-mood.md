@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm in a good mood"
 date: 2000-5-18 10:22:0
 tags: 

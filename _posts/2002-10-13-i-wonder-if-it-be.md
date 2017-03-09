@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I wonder if it'd be"
 date: 2002-10-13 12:4:0
 tags: 

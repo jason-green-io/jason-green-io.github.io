@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "a crowd of people stood and stared"
 date: 2004-11-15 22:7:0
 tags: 

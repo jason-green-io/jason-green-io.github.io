@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "View from our room"
 date: 2006-5-6 0:52:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "So bright, so vivid."
 date: 2012-8-18 12:9:0
 tags: 

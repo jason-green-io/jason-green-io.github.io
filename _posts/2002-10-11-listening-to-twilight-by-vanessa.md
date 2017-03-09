@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Listening to Twilight by Vanessa"
 date: 2002-10-11 20:52:0
 tags: 

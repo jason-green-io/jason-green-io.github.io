@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "A title, you will have problems finding, yeeesss"
 date: 2003-11-8 1:38:0
 tags: 

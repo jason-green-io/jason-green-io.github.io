@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "trying not to watch CNN"
 date: 2003-3-24 7:4:0
 tags: 

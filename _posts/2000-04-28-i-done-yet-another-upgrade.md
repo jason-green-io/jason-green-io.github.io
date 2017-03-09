@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm done yet another upgrade"
 date: 2000-4-28 13:20:0
 tags: 

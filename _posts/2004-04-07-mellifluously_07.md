@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "mellifluously"
 date: 2004-4-7 2:38:0
 tags: 

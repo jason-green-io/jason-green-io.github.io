@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I wonder, wonder why the wonder falls"
 date: 2004-4-2 18:2:0
 tags: 

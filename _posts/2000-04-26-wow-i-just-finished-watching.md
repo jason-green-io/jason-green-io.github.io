@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Wow.. I just finished watching"
 date: 2000-4-26 7:59:0
 tags: 

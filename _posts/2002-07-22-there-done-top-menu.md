@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "There.. done the top menu"
 date: 2002-7-22 17:57:0
 tags: 

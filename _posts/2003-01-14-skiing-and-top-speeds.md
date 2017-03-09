@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "skiing and top speeds"
 date: 2003-1-14 23:46:0
 tags: 

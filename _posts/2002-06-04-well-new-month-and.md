@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Well, a new month and"
 date: 2002-6-4 1:6:0
 tags: 

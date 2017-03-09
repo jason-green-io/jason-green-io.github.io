@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Disc One It's where we've"
 date: 2000-6-5 13:51:0
 tags: 

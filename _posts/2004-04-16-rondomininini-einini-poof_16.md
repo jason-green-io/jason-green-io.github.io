@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "rondomininini einini poof"
 date: 2004-4-16 12:31:0
 tags: 

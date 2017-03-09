@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Do some thing you normally do on a Saturday night"
 date: 2003-9-12 0:10:0
 tags: 

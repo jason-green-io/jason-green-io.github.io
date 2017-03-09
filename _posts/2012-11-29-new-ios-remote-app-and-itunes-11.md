@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "new iOS Remote app and iTunes 11"
 date: 2012-11-29 18:46:0
 

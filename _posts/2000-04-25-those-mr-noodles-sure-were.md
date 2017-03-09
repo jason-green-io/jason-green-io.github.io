@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Those Mr. Noodles sure were"
 date: 2000-4-25 18:19:0
 tags: 

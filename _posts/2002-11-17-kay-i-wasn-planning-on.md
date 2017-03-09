@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Kay, I wasn't planning on"
 date: 2002-11-17 0:32:0
 tags: 

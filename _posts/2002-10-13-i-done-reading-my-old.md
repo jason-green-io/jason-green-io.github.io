@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm done reading my old"
 date: 2002-10-13 11:7:0
 tags: 

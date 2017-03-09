@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "ohhh .. haunting"
 date: 2004-4-2 13:17:0
 tags: 

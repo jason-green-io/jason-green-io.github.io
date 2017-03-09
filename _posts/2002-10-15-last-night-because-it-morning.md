@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Last night (because it's morning"
 date: 2002-10-15 0:37:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I love slushies. Frozen Coke."
 date: 2000-5-16 18:38:0
 tags: 

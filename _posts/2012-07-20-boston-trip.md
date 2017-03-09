@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Boston trip"
 date: 2012-7-20 21:38:0
 tags: 

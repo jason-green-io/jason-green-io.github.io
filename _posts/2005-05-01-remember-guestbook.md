@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "remember the guestbook?"
 date: 2005-5-1 15:27:0
 tags: 

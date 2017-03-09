@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "well, i got my"
 date: 2000-5-9 20:16:0
 tags: 

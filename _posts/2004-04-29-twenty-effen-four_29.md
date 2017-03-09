@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "twenty effen four"
 date: 2004-4-29 21:40:0
 tags: 

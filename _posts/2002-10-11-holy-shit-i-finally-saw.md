@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Holy shit, I finally saw"
 date: 2002-10-11 21:29:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I just finished a major"
 date: 2001-12-27 1:41:0
 tags: 

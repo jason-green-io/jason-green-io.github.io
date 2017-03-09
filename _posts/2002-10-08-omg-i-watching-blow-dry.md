@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "omg, I'm watching Blow Dry,"
 date: 2002-10-8 17:54:0
 tags: 

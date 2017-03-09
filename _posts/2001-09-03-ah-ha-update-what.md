@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Ah ha, an update! What"
 date: 2001-9-3 21:8:0
 tags: 

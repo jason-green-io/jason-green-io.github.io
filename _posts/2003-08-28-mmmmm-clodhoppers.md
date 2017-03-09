@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "mmmmm, clodhoppers"
 date: 2003-8-28 18:47:0
 tags: 

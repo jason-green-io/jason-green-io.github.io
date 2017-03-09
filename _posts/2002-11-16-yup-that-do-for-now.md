@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Yup, that'll do for now.."
 date: 2002-11-16 22:30:0
 tags: 

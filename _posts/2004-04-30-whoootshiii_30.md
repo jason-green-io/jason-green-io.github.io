@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "whoootshiii"
 date: 2004-4-30 13:32:0
 tags: 

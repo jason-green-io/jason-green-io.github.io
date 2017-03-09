@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "My friend Al is having"
 date: 2000-5-12 6:44:0
 tags: 

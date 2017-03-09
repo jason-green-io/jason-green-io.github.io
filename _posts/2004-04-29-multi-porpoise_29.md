@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "multi porpoise"
 date: 2004-4-29 21:25:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The future is almost now"
 date: 2012-7-23 17:59:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "hello from Saint-Jean-sur-Richelieu"
 date: 2005-2-5 14:25:0
 tags: 

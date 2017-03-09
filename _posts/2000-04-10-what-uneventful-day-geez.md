@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "What an uneventful day. Geez,"
 date: 2000-4-10 12:57:0
 tags: 

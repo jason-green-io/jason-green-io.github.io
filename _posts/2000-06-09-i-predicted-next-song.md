@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I predicted the next song"
 date: 2000-6-9 5:58:0
 tags: 

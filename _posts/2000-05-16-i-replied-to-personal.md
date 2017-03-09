@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I replied to a personal"
 date: 2000-5-16 19:28:0
 tags: 

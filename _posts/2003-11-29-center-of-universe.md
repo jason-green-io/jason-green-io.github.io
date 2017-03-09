@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "center of the universe"
 date: 2003-11-29 22:37:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Future"
 date: 2000-5-16 11:41:0
 tags: 

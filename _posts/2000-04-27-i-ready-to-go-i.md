@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm ready to go. I"
 date: 2000-4-27 5:12:0
 tags: 

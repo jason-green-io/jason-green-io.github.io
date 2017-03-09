@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I figured 30% of images on Instagram are cats, what's ONE more."
 date: 2012-8-25 15:33:0
 tags: 

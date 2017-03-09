@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "damn push ups"
 date: 2004-6-23 12:41:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I don' want to get off on a rant here, but...."
 date: 2003-10-6 23:3:0
 tags: 

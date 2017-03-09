@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Hello fellow humans. I have"
 date: 2000-5-2 18:46:0
 tags: 

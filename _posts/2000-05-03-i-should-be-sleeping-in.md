@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I should be sleeping. In"
 date: 2000-5-3 19:12:0
 tags: 

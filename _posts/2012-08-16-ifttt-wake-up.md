@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "IFTTT wake up"
 date: 2012-8-16 19:14:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "New blogger stuff"
 date: 2011-9-8 20:30:0
 tags: 

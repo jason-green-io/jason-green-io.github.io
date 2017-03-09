@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "More modifications to the site,"
 date: 2002-11-18 19:15:0
 tags: 

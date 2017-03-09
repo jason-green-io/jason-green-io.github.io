@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "comic book villan"
 date: 2004-4-30 13:42:0
 tags: 

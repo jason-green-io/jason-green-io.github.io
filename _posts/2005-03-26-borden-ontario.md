@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Borden Ontario"
 date: 2005-3-26 19:15:0
 tags: 

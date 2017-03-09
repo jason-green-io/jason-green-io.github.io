@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm having fun! I just"
 date: 2000-4-7 19:21:0
 tags: 

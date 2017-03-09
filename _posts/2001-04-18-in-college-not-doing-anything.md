@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "In college, not doing anything"
 date: 2001-4-18 9:26:0
 tags: 

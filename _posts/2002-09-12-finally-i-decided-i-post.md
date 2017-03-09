@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Finally I decided I'd post"
 date: 2002-9-12 15:46:0
 tags: 

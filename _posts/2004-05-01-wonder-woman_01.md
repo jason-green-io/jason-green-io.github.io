@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Wonder Woman"
 date: 2004-5-1 23:38:0
 tags: 

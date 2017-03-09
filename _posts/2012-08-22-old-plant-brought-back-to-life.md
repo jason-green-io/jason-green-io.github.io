@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Old plant brought back to life"
 date: 2012-8-22 22:2:0
 tags: 

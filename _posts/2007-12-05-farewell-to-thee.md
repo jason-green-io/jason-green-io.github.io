@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "farewell to thee"
 date: 2007-12-5 13:8:0
 tags: 

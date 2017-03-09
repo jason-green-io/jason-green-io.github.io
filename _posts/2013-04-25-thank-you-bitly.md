@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Thank you bitly!"
 date: 2013-4-25 19:55:0
 

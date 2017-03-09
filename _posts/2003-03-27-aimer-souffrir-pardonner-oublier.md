@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "aimer, souffrir, pardonner, oublier"
 date: 2003-3-27 23:1:0
 tags: 

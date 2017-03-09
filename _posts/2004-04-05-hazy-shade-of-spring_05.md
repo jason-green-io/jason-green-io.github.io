@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "hazy shade of .. spring"
 date: 2004-4-5 1:14:0
 tags: 

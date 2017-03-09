@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Since I haven't updated in"
 date: 2002-11-3 19:37:0
 tags: 

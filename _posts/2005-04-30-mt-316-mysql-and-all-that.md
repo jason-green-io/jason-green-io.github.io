@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "MT 3.16, mysql and all that"
 date: 2005-4-30 12:30:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Eeeeeeeeeeeeeeee It'll make sense later"
 date: 2002-5-9 12:18:0
 tags: 

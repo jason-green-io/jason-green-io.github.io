@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I took an hour, but"
 date: 2000-4-23 6:59:0
 tags: 

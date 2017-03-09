@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "back from work"
 date: 2000-4-1 19:0:0
 tags: 

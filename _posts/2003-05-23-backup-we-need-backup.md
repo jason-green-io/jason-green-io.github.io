@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "backup, we need backup"
 date: 2003-5-23 0:0:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Okay, so this is a"
 date: 2002-4-5 10:22:0
 tags: 

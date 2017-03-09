@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Emo Phillips"
 date: 2004-2-16 12:0:0
 tags: 

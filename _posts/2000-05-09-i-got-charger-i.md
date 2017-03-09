@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I got the charger. I'm"
 date: 2000-5-9 13:1:0
 tags: 

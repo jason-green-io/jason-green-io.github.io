@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Vegetables are in the news"
 date: 2000-4-4 13:25:0
 tags: 

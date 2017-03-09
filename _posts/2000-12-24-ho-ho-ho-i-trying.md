@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "HO HO HO.. I'm trying"
 date: 2000-12-24 8:19:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Lab, lab, lab. It's the"
 date: 2000-5-10 4:42:0
 tags: 

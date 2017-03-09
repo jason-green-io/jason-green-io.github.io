@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "entry list fifty three"
 date: 2004-4-29 20:57:0
 tags: 

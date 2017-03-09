@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Still at Al's place, Ned's"
 date: 2000-4-6 18:1:0
 tags: 

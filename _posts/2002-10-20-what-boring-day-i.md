@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "What a boring day, I"
 date: 2002-10-20 16:30:0
 tags: 

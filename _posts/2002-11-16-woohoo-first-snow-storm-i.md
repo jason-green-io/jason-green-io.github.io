@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Woohoo! First snow storm.. I"
 date: 2002-11-16 21:15:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "incident"
 date: 2004-4-11 4:8:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "mmmmm, boooooot"
 date: 2004-3-11 18:46:0
 tags: 

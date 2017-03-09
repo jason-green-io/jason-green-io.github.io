@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I bought a Rubik's cube"
 date: 2000-5-28 14:24:0
 tags: 

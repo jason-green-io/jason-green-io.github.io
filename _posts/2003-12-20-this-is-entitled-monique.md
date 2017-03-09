@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "this is entitled Monique"
 date: 2003-12-20 0:44:0
 tags: 

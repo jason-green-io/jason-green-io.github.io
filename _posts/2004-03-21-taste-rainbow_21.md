@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "taste the rainbow"
 date: 2004-3-21 11:57:0
 tags: 

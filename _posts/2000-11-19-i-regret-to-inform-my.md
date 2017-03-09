@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I regret to inform my"
 date: 2000-11-19 17:1:0
 tags: 

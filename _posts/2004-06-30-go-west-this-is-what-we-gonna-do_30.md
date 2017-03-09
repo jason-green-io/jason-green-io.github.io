@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "go west, this is what we're gonna do"
 date: 2004-6-30 11:46:0
 tags: 

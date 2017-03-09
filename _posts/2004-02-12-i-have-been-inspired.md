@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I have been inspired"
 date: 2004-2-12 2:5:0
 tags: 

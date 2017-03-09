@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "John Ashcroft"
 date: 2004-3-28 6:16:0
 tags: 

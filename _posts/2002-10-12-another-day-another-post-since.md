@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Another day, another post. Since"
 date: 2002-10-12 21:22:0
 tags: 

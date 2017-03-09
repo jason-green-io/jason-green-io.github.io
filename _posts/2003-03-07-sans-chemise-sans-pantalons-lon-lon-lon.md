@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "sans chemise, sans pantalons-lon-lon-lon"
 date: 2003-3-7 22:45:0
 tags: 

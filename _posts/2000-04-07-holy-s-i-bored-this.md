@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Holy s*** I'm bored. (This"
 date: 2000-4-7 5:53:0
 tags: 

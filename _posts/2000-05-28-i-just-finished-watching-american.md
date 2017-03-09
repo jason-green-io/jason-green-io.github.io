@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I just finished watching American"
 date: 2000-5-28 16:42:0
 tags: 

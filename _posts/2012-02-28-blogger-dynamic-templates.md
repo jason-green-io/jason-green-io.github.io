@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Blogger dynamic templates"
 date: 2012-2-28 18:51:0
 tags: 

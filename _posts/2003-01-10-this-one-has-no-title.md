@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "this one has no title"
 date: 2003-1-10 8:22:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Facebook email policy change"
 date: 2011-11-20 13:31:0
 tags: 

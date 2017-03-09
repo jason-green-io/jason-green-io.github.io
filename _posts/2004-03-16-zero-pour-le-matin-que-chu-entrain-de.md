@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "zero pour le matin que chu entrain de vivre"
 date: 2004-3-16 4:3:0
 tags: 

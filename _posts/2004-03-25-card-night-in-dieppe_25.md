@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Card Night in Dieppe"
 date: 2004-3-25 3:45:0
 tags: 

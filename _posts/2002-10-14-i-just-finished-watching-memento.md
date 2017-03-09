@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I just finished Watching Memento,"
 date: 2002-10-14 9:15:0
 tags: 

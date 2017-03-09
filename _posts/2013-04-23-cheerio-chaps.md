@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Cheerio chaps!"
 date: 2013-4-23 17:1:0
 

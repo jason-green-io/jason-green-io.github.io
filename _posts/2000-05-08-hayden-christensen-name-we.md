@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Hayden Christensen, a name we"
 date: 2000-5-8 13:40:0
 tags: 

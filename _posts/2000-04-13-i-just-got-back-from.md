@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "hanging, Doc's, Sport's Rock"
 date: 2000-4-13 21:39:0
 tags: 

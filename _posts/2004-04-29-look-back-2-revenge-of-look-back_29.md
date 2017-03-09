@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "look back 2, the revenge of the look back"
 date: 2004-4-29 23:1:0
 tags: 

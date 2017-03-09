@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Bunnies everywhere"
 date: 2012-7-2 19:13:0
 tags: 

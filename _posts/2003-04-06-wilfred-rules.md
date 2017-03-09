@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Wilfred rules!"
 date: 2003-4-6 23:17:0
 tags: 

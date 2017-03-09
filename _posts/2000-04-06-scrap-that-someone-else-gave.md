@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Scrap that, someone else gave"
 date: 2000-4-6 7:44:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Exactly 8:30, not actually, not"
 date: 2000-4-11 4:30:0
 tags: 

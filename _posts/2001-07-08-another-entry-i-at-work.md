@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Another entry. I'm at work."
 date: 2001-7-8 14:46:0
 tags: 

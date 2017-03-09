@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The shareef don't like it.."
 date: 2002-10-8 17:24:0
 tags: 

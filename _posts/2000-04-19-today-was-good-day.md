@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Today was a good day."
 date: 2000-4-19 12:46:0
 tags: 

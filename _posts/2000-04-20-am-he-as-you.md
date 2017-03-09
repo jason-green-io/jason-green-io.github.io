@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I am he as you"
 date: 2000-4-20 11:5:0
 tags: 

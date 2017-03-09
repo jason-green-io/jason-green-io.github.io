@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Dance Floor"
 date: 2006-2-26 0:13:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "am I gonna be someone who has to take the rest of my life to settle down"
 date: 2005-6-18 2:47:0
 tags: 

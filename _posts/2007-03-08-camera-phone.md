@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "camera phone!!"
 date: 2007-3-8 11:5:0
 tags: 

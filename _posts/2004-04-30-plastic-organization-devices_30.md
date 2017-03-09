@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "plastic organization devices"
 date: 2004-4-30 13:27:0
 tags: 

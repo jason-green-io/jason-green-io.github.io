@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "it tastes like burning"
 date: 2003-1-8 22:6:0
 tags: 

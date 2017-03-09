@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "sur la grande cote elle est montee"
 date: 2004-2-12 23:19:0
 tags: 

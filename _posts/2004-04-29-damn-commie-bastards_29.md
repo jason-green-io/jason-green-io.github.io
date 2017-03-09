@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "damn commie bastards"
 date: 2004-4-29 21:14:0
 tags: 

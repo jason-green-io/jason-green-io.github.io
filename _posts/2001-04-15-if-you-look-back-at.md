@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "If you look back at"
 date: 2001-4-15 13:2:0
 tags: 

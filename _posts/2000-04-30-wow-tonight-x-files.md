@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Wow.. tonight's X-Files.... . .."
 date: 2000-4-30 18:15:0
 tags: 

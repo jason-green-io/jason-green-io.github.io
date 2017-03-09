@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "ah.. well, why don't we"
 date: 2002-4-15 18:47:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I wish a certain individual"
 date: 2002-10-5 11:1:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "It's taping, I found a"
 date: 2000-4-10 14:50:0
 tags: 

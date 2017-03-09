@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "lol!!! Micheal Jordon on Stuart"
 date: 2000-5-14 19:41:0
 tags: 

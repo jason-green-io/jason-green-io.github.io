@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Looks like it's time for"
 date: 2002-12-10 17:14:0
 tags: 

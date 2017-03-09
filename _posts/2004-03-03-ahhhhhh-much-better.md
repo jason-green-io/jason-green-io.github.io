@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "ahhhhhh, much better"
 date: 2004-3-3 2:1:0
 tags: 

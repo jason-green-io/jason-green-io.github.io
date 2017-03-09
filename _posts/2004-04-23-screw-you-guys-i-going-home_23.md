@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "screw you guys, I'm going home"
 date: 2004-4-23 10:37:0
 tags: 

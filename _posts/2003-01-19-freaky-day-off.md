@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "freaky day off"
 date: 2003-1-19 19:58:0
 tags: 

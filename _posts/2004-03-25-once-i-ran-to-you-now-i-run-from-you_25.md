@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "once I ran to you, now I run from you"
 date: 2004-3-25 23:38:0
 tags: 

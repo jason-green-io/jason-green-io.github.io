@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Some chick wearing pretty boy's hat"
 date: 2006-2-25 3:53:0
 tags: 

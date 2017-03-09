@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm here, college I mean."
 date: 2000-4-12 4:15:0
 tags: 

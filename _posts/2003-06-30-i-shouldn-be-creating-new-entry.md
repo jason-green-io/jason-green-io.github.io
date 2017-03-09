@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I shouldn't be creating a new entry"
 date: 2003-6-30 23:8:0
 tags: 

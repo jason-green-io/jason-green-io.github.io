@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "baby can't you see I'm calling?"
 date: 2004-2-27 23:26:0
 tags: 

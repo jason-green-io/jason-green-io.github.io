@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "digging the Dancing Queen"
 date: 2004-1-14 1:14:0
 tags: 

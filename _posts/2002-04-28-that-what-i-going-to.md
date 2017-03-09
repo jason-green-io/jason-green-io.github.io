@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "That's what I'm going to"
 date: 2002-4-28 12:42:0
 tags: 

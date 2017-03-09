@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm in class now.. in"
 date: 2000-4-6 7:8:0
 tags: 

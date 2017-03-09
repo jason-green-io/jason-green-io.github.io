@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Damn NBCi.. it's on NBNet"
 date: 2001-4-2 17:30:0
 tags: 

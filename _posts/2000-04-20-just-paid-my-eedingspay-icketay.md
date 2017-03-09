@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Just paid my eedingspay icketay,"
 date: 2000-4-20 13:8:0
 tags: 

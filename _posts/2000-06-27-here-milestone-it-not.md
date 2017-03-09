@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Here's a milestone, it's not"
 date: 2000-6-27 12:43:0
 tags: 

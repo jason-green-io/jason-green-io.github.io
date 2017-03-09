@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "post rss to Twitter with a custom URL shortener"
 date: 2011-9-23 16:40:0
 tags: 

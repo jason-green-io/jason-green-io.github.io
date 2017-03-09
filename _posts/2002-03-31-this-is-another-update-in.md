@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "This is another update in"
 date: 2002-3-31 16:24:0
 tags: 

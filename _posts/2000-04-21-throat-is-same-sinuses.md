@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Throat is the same, sinuses"
 date: 2000-4-21 10:16:0
 tags: 

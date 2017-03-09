@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm sitting at home, in"
 date: 2000-4-6 19:28:0
 tags: 

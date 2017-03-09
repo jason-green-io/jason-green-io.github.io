@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Talked to Mike the pilot"
 date: 2000-4-27 7:54:0
 tags: 

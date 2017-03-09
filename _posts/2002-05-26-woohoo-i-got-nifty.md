@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Woohoo, I got a nifty"
 date: 2002-5-26 18:10:0
 tags: 

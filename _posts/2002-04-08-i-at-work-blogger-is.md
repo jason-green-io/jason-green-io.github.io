@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm at work, blogger is"
 date: 2002-4-8 17:51:0
 tags: 

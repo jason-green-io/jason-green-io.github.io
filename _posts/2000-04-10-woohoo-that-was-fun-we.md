@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "WOOHOO!! That was fun.. we"
 date: 2000-4-10 17:46:0
 tags: 

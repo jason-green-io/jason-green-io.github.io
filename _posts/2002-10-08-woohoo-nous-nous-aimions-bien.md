@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Woohoo!! Nous nous aimions bien"
 date: 2002-10-8 17:48:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Apple's bitter sweet verdict"
 date: 2012-8-27 8:20:0
 

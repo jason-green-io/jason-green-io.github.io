@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "do you know what today"
 date: 2000-5-18 20:10:0
 tags: 

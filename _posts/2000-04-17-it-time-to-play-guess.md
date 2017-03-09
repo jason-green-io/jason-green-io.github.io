@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "It's time to play, guess"
 date: 2000-4-17 11:1:0
 tags: 

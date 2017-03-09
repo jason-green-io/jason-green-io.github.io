@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Al got his PowerBook G4,"
 date: 2001-5-20 11:25:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I forgot to mention, today"
 date: 2000-4-7 7:50:0
 tags: 

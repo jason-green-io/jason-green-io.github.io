@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Project: FrankenBook"
 date: 2003-9-25 19:8:0
 tags: 

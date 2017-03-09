@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Hi Monique"
 date: 2003-6-3 11:19:0
 tags: 

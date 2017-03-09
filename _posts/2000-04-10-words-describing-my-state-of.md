@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Words describing my state of"
 date: 2000-4-10 17:33:0
 tags: 

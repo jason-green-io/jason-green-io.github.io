@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Happy Canada day! I got"
 date: 2000-7-1 9:44:0
 tags: 

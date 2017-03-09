@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Mr. Persaud is getting ready"
 date: 2000-9-11 4:9:0
 tags: 

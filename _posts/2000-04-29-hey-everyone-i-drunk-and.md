@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Hey everyone! I'm drunk! And"
 date: 2000-4-29 10:42:0
 tags: 

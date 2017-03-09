@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "moley moley moley moley!!!"
 date: 2003-1-30 3:52:0
 tags: 

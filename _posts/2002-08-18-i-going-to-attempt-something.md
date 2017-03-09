@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm going to attempt something"
 date: 2002-8-18 23:24:0
 tags: 

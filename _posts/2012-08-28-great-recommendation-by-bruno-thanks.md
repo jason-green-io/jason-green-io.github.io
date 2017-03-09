@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Great recommendation by Bruno, thanks!"
 date: 2012-8-28 13:53:0
 

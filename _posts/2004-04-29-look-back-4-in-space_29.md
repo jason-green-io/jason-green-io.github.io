@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "look back 4 IN SPACE!"
 date: 2004-4-29 23:21:0
 tags: 

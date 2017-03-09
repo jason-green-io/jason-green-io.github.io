@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "My first update from work,"
 date: 2000-9-30 21:58:0
 tags: 

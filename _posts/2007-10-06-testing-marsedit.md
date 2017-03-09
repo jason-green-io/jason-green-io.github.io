@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "testing MarsEdit"
 date: 2007-10-6 12:23:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I went from 384MB of"
 date: 2002-10-22 0:8:0
 tags: 

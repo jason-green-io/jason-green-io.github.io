@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "holy crap! a new entry"
 date: 2005-11-20 12:5:0
 tags: 

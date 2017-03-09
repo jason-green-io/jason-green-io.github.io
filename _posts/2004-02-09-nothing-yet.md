@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Nothing Yet"
 date: 2004-2-9 23:17:0
 tags: 

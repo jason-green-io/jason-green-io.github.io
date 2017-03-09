@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I've found a new home"
 date: 2001-4-1 18:46:0
 tags: 

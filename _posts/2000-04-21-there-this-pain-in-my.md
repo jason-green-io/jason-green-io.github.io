@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "There's this pain in my"
 date: 2000-4-21 0:48:0
 tags: 

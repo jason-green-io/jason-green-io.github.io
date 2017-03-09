@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "you're toxic, I'm slipping under"
 date: 2004-2-28 22:56:0
 tags: 

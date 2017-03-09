@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I used to work on cruise ships and made these timelapse videos in my spare time."
 date: 2012-9-2 19:53:0
 tags: 

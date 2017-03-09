@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I`m not home. nor did"
 date: 2000-5-13 6:43:0
 tags: 

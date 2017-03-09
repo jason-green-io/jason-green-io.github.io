@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Did you know the Zin"
 date: 2000-6-11 13:4:0
 tags: 

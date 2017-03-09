@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Mephitis mephitis forensic mammalogy"
 date: 2011-9-29 17:38:0
 tags: 

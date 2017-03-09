@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "lasagna.. mmmm"
 date: 2003-2-9 11:40:0
 tags: 

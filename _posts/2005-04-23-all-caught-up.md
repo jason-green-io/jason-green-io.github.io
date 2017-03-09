@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "all caught up"
 date: 2005-4-23 18:22:0
 tags: 

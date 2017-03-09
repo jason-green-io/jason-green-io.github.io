@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Paint test strips!"
 date: 2011-4-7 19:55:0
 tags: 

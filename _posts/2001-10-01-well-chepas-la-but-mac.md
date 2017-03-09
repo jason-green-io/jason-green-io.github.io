@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Well, chepas la, but Mac"
 date: 2001-10-1 10:0:0
 tags: 

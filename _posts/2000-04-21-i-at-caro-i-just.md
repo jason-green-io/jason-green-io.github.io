@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm at Caro's. I just"
 date: 2000-4-21 17:52:0
 tags: 

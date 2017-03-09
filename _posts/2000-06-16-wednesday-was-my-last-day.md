@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Wednesday was my last day"
 date: 2000-6-16 7:3:0
 tags: 

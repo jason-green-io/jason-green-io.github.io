@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I woke up approximatly 10"
 date: 2000-6-21 10:34:0
 tags: 

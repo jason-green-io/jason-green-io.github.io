@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "It's raining, hardcore. And there"
 date: 2002-5-7 21:52:0
 tags: 

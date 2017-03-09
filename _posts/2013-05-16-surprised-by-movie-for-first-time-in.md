@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Surprised by a movie for the first time in a while"
 date: 2013-5-16 22:23:0
 

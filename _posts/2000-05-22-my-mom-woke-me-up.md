@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "My mom woke me up"
 date: 2000-5-22 9:27:0
 tags: 

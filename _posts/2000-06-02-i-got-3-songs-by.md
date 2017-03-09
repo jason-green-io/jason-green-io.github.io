@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I've got 3 songs by"
 date: 2000-6-2 8:3:0
 tags: 

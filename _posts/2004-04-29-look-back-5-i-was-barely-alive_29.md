@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "look back 5 I was barely alive"
 date: 2004-4-29 23:22:0
 tags: 

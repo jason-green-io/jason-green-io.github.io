@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Happy Canada Day"
 date: 2012-7-1 19:13:0
 tags: 

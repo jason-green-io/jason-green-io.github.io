@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "This is old: Where Did"
 date: 2002-10-14 14:20:0
 tags: 

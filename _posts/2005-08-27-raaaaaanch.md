@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "raaaaaanch"
 date: 2005-8-27 10:10:0
 tags: 

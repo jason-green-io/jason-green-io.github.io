@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Timmy's on Princess"
 date: 2006-2-25 3:53:0
 tags: 

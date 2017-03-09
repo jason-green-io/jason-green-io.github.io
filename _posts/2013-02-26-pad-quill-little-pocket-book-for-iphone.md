@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Pad & Quill Little Pocket Book for iPhone 5"
 date: 2013-2-26 18:10:0
 

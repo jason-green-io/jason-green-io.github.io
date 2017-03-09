@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Time is going by really"
 date: 2002-5-26 14:48:0
 tags: 

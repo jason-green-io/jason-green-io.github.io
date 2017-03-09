@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "here you go: (removed, was"
 date: 2002-8-18 23:44:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "trip to boston"
 date: 2007-4-18 13:44:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "ouff, about time eh?"
 date: 2004-10-3 20:3:0
 tags: 

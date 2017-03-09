@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "LIVE: From the laundry room"
 date: 2003-5-31 10:17:0
 tags: 

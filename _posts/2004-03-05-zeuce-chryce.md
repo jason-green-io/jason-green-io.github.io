@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "zeuce chryce"
 date: 2004-3-5 15:46:0
 tags: 

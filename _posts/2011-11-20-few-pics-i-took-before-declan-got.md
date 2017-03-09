@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Barrhaven Santa Parade"
 date: 2011-11-20 18:32:0
 tags: 

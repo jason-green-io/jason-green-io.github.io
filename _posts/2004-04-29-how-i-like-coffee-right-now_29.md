@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "how I'd like a coffee right now"
 date: 2004-4-29 22:17:0
 tags: 

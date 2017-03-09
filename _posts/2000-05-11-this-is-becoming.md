@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "this is becoming a"
 date: 2000-5-11 19:46:0
 tags: 

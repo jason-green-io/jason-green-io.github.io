@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "If we are alone, seems"
 date: 2000-6-1 17:37:0
 tags: 

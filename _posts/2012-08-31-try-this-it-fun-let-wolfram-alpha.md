@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Try this, it's fun! Let Wolfram Alpha crunch your Facebook profile."
 date: 2012-8-31 18:31:0
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Matrix Reloaded"
 date: 2003-1-27 21:56:0
 tags: 

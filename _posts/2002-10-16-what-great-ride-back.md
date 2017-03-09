@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "What a great ride back"
 date: 2002-10-16 19:26:0
 tags: 

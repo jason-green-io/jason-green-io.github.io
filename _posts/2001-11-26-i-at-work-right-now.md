@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm at work right now,"
 date: 2001-11-26 21:18:0
 tags: 

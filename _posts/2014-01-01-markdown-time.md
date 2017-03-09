@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "markdown time"
 date: 2014-1-1 10:32:0
 tags: 

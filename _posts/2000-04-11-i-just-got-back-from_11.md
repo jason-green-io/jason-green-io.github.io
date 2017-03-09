@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "doorstop Mac"
 date: 2000-4-11 20:27:0
 tags: 

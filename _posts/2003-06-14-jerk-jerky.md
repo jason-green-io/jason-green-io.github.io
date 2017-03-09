@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "jerk jerky"
 date: 2003-6-14 5:33:0
 tags: 

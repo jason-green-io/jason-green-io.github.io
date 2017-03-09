@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Game of ... wtf was that?!"
 date: 2012-8-22 20:18:0
 tags: 

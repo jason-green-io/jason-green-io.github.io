@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Ma Brain is changing, in"
 date: 2002-3-30 15:8:0
 tags: 

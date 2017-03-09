@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "My friend Eric has got"
 date: 2000-4-27 11:19:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "lets go make a picture on the island of Stromboli"
 date: 2005-6-5 9:43:0
 tags: 

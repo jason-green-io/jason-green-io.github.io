@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Gonan the Superfluous"
 date: 2004-4-8 0:19:0
 tags: 

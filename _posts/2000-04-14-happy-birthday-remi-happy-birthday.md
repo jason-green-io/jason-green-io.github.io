@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Happy birthday Remi, happy birthday"
 date: 2000-4-14 7:55:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "It's a wonderful day outside,"
 date: 2000-4-18 9:0:0
 tags: 

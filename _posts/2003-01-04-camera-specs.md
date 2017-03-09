@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "camera specs.."
 date: 2003-1-4 15:13:0
 tags: 

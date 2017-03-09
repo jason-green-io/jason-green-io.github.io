@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Yoshimi, they don't believe me"
 date: 2004-10-9 10:59:0
 tags: 

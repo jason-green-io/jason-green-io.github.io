@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "You're a vegatable I had"
 date: 2000-4-3 13:59:0
 tags: 

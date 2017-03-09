@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "T.H.E. Wallet"
 date: 2013-12-16 16:30:0
 tags: 

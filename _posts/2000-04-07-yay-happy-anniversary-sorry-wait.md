@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Yay!! HAPPY ANNIVERSARY Sorry. Wait.."
 date: 2000-4-7 20:0:0
 tags: 

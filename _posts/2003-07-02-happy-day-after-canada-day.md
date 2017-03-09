@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Happy Day After Canada Day"
 date: 2003-7-2 12:59:0
 tags: 

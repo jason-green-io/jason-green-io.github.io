@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "A new counter I have."
 date: 2002-5-26 18:49:0
 tags: 

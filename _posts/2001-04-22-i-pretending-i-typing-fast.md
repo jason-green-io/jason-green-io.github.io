@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm pretending I'm typing fast"
 date: 2001-4-22 16:29:0
 tags: 

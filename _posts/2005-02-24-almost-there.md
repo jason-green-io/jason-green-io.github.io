@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "almost there"
 date: 2005-2-24 22:22:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "What's it gonna be Merv?"
 date: 2004-4-6 17:55:0
 tags: 

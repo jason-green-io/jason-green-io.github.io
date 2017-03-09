@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "My thumb and the Empire State Building"
 date: 2006-5-6 13:36:0
 tags: 

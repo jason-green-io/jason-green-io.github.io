@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "ME in front of the Recruiting Station in Times Sqaure"
 date: 2006-5-6 20:49:0
 tags: 

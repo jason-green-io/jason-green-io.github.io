@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Lots planned"
 date: 2003-1-2 5:43:0
 tags: 

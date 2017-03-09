@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "What an action packed night."
 date: 2000-4-15 14:27:0
 tags: 

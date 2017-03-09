@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm at Al's place, and"
 date: 2000-4-6 14:14:0
 tags: 

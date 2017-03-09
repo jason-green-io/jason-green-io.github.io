@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Just when I thought"
 date: 2002-11-17 1:12:0
 tags: 

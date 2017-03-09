@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I knew it'd be a"
 date: 2000-4-3 8:13:0
 tags: 

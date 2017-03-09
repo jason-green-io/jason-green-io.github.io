@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "My excellent view during the Leonard Cohen show"
 date: 2012-12-7 21:34:0
 

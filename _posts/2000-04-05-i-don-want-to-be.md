@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I don't want to be"
 date: 2000-4-5 10:3:0
 tags: 

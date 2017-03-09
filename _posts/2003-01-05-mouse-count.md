@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "mouse count"
 date: 2003-1-5 21:0:0
 tags: 

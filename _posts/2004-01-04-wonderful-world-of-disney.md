@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Wonderful World of Disney"
 date: 2004-1-4 15:43:0
 tags: 

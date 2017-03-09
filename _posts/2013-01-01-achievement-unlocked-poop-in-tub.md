@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Achievement Unlocked, Poop in the Tub"
 date: 2013-1-1 18:29:0
 

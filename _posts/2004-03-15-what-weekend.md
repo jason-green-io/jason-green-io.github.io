@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "what a weekend"
 date: 2004-3-15 5:3:0
 tags: 

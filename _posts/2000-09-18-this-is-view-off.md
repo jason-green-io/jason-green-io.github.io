@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "This is the view off"
 date: 2000-9-18 16:39:0
 tags: 

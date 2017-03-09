@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "happy birthday Doogus"
 date: 2003-4-1 19:21:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Star Academie"
 date: 2003-7-10 1:43:0
 tags: 

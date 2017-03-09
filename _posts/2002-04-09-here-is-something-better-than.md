@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Here is something better than"
 date: 2002-4-9 17:18:0
 tags: 

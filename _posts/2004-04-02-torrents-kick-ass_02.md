@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "torrents kick ass"
 date: 2004-4-2 11:55:0
 tags: 

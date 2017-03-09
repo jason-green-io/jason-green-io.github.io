@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Hehe,, see that.. 22:22.. cool."
 date: 2000-4-16 18:22:0
 tags: 

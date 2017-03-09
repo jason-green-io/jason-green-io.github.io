@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "there, here, and everywhere"
 date: 2004-4-4 19:20:0
 tags: 

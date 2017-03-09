@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "What a fun time working."
 date: 2000-4-9 18:44:0
 tags: 

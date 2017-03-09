@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I fixed a web page"
 date: 2000-6-3 22:50:0
 tags: 

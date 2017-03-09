@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "When autocorrect gails"
 date: 2012-8-25 13:36:0
 tags: 

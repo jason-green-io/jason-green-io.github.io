@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "artificial noise makers"
 date: 2003-2-23 23:22:0
 tags: 

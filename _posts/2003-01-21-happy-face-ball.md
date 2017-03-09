@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "happy face ball"
 date: 2003-1-21 21:48:0
 tags: 

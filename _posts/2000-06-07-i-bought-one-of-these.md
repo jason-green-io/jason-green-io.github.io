@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I bought one of these."
 date: 2000-6-7 18:48:0
 tags: 

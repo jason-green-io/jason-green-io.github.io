@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I have to say Hi"
 date: 2002-8-4 8:51:0
 tags: 

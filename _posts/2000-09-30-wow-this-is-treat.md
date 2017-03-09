@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Wow, this is a treat,"
 date: 2000-9-30 22:17:0
 tags: 

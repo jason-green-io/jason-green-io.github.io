@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "recycled yes, but from what?"
 date: 2004-4-29 21:52:0
 tags: 

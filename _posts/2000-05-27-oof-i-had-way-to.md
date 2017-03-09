@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Oof. I had way to"
 date: 2000-5-27 23:27:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Miss Lynie's Guest Entry"
 date: 2003-1-12 14:47:0
 tags: 

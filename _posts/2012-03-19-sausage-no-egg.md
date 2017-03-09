@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "sausage, no egg"
 date: 2012-3-19 20:56:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "styro soup"
 date: 2003-2-9 5:23:0
 tags: 

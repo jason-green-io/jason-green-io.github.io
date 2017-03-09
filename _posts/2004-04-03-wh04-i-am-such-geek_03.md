@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "wh04! I am such a geek"
 date: 2004-4-3 23:17:0
 tags: 

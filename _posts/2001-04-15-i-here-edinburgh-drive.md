@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm here a Edinburgh drive."
 date: 2001-4-15 12:13:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "So I bought a new"
 date: 2002-2-15 18:26:0
 tags: 

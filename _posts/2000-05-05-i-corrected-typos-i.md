@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I corrected the typos I"
 date: 2000-5-5 8:42:0
 tags: 

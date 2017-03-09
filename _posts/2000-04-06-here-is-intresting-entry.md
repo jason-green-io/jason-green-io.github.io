@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Here is an intresting entry."
 date: 2000-4-6 5:55:0
 tags: 

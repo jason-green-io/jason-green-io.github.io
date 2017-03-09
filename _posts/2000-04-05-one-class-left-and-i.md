@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "One class left and I'm"
 date: 2000-4-5 11:2:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm back.. I stopped writing"
 date: 2000-4-2 20:5:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Future shop, here I come"
 date: 2002-12-25 7:36:0
 tags: 

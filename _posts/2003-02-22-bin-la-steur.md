@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "bin la steur"
 date: 2003-2-22 7:37:0
 tags: 

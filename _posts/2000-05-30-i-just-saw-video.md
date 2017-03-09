@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I just saw the video"
 date: 2000-5-30 11:10:0
 tags: 

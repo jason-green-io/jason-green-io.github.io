@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Two scoops of raisins in Kellogg's Raisin Bran"
 date: 2004-4-7 20:39:0
 tags: 

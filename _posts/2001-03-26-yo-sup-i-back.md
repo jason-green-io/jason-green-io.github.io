@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Yo, sup? I'm back. A"
 date: 2001-3-26 23:38:0
 tags: 

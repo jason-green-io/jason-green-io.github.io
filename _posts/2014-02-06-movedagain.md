@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "well that was fast"
 date: 2014-02-06 12:00:00
 published: true
@@ -21,7 +21,7 @@ for i in $1/*.md; do
     -e 's/Title:/title:/' \
     -e 's/Date:/date:/' \
     -e '/title:/i\'$'\n''---' \
-    -e '/title:/i\'$'\n''layout: post' \
+    -e '/title:/i\'$'\n''layout: single' \
     -e '/tags:/a\'$'\n''---' "$i"
 done
 {% endhighlight %}

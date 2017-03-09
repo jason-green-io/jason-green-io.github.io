@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "joining the CF update"
 date: 2004-6-8 15:28:0
 tags: 

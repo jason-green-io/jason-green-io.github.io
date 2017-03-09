@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "dum du-dum dum dum dummmm dummmmm"
 date: 2003-5-27 16:5:0
 tags: 

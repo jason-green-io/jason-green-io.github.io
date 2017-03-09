@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Candace, this is for you."
 date: 2000-5-14 20:27:0
 tags: 

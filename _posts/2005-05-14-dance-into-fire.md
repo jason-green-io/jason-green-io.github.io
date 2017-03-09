@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "dance into the fire"
 date: 2005-5-14 14:34:0
 tags: 

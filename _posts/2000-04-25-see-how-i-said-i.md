@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "See how I said I'd"
 date: 2000-4-25 8:41:0
 tags: 

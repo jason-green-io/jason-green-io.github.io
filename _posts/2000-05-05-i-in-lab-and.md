@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm in the lab, and"
 date: 2000-5-5 7:52:0
 tags: 

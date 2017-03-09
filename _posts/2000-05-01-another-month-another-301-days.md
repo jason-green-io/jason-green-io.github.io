@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Another month, another 30+1 days,"
 date: 2000-5-1 18:35:0
 tags: 

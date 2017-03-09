@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "extended vacation"
 date: 2004-4-14 0:21:0
 tags: 

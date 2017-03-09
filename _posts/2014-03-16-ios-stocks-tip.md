@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "iOS Stocks and currency exchange"
 published: true
 date: 2014-03-15

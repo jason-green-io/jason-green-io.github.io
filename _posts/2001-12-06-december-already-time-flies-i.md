@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "December already. Time flies. I"
 date: 2001-12-6 22:9:0
 tags: 

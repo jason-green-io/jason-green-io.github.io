@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "madame canaille Comeaux"
 date: 2003-3-24 17:28:0
 tags: 

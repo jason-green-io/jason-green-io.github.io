@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I have a sock on my head?"
 date: 2003-8-26 12:13:0
 tags: 

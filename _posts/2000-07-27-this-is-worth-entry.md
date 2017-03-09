@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "This is worth an entry."
 date: 2000-7-27 7:4:0
 tags: 

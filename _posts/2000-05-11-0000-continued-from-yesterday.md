@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "00:00 continued from yesterday,"
 date: 2000-5-11 20:0:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I didn't even eat.. I"
 date: 2000-4-3 8:54:0
 tags: 

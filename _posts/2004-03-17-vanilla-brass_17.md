@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "vanilla brass"
 date: 2004-3-17 9:53:0
 tags: 

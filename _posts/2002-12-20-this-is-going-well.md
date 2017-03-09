@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "this is going well"
 date: 2002-12-20 18:6:0
 tags: 

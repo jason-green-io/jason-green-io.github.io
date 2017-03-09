@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "C'etait un p'tit ver-de-terre"
 date: 2000-5-23 12:19:0
 tags: 

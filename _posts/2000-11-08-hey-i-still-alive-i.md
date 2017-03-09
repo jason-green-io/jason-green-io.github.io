@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Hey, I'm still alive. I"
 date: 2000-11-8 15:29:0
 tags: 

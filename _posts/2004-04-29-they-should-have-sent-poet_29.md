@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "they should have sent a poet"
 date: 2004-4-29 21:20:0
 tags: 

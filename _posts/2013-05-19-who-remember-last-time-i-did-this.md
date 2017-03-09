@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Who remembers the last time I did this?"
 date: 2013-5-19 19:27:0
 

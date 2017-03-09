@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "It's finally happened, happened"
 date: 2003-11-16 3:45:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Home sweet Acadian Home"
 date: 2004-8-15 9:42:0
 tags: 

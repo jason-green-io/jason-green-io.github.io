@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Rogers and roaming"
 date: 2012-7-21 11:0:0
 tags: 

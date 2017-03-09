@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I got mail! Early last"
 date: 2000-4-11 12:12:0
 tags: 

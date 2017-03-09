@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Sweet Surrender"
 date: 2003-12-12 2:54:0
 tags: 

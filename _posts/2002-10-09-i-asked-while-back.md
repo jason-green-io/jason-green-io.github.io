@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I asked a while back"
 date: 2002-10-9 21:19:0
 tags: 

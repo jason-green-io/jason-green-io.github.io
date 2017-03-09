@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Tonight was a night filled"
 date: 2002-10-10 19:26:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "What a great day to"
 date: 2000-3-31 19:0:0
 tags: 

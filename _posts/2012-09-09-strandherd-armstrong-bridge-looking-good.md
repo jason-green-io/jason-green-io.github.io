@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Strandherd-Armstrong bridge looking good"
 date: 2012-9-9 18:49:0
 tags: 

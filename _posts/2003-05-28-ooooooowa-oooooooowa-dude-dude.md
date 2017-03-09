@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "ooooooowa oooooooowa, dude dude"
 date: 2003-5-28 22:11:0
 tags: 

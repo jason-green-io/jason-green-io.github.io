@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm still sick! It's been"
 date: 2000-4-24 6:32:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "scratch that .. Kingston Ontario"
 date: 2005-4-1 21:52:0
 tags: 

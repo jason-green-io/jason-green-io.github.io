@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "4 days in the field left"
 date: 2005-3-13 11:48:0
 tags: 

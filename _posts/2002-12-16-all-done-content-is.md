@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "All done, the content is"
 date: 2002-12-16 12:58:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I meant convertible ride. Geez."
 date: 2000-5-1 19:43:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The origin or greener"
 date: 2004-4-29 22:42:0
 tags: 

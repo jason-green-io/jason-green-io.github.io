@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I think I'm going buy"
 date: 2000-4-18 11:49:0
 tags: 

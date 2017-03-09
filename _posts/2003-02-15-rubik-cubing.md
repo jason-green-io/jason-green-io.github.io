@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "rubik's cubing"
 date: 2003-2-15 1:40:0
 tags: 

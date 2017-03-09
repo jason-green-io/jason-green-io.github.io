@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Prompt, vim and tmux issues and how to fix them"
 date: 2014-01-29
 ---

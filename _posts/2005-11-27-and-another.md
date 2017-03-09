@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "and another"
 date: 2005-11-27 15:7:0
 tags: 

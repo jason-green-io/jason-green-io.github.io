@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Belkin AirCast"
 date: 2014-1-10 3:5:0
 tags: 

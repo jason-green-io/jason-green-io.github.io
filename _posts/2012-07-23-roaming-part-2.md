@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Roaming part 2"
 date: 2012-7-23 12:22:0
 tags: 

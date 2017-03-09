@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "sour cream & onion chips"
 date: 2003-2-5 22:37:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "there's no escape, I can't wait"
 date: 2004-3-7 22:42:0
 tags: 

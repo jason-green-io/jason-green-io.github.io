@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Well, I skipped my first"
 date: 2000-5-7 18:44:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "A few updates I'm working"
 date: 2002-7-21 19:4:0
 tags: 

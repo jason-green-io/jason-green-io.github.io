@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "blog stalker"
 date: 2004-4-7 17:8:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "@mcd_canada I'm sick and tired of getting sausage and egg mcmuffins when I order sausage mcmuffins"
 date: 2012-9-15 13:40:0
 tags: 

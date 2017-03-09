@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "look back 3: whip it good"
 date: 2004-4-29 23:11:0
 tags: 

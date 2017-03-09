@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "King of DTP"
 date: 2005-1-10 21:12:0
 tags: 

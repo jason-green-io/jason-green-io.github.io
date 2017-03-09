@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "To purdure my current day's"
 date: 2002-10-11 21:8:0
 tags: 

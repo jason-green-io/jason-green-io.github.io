@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "domo arigato Mr. Roboto"
 date: 2003-1-21 2:3:0
 tags: 

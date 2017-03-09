@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I play this a lot"
 date: 2011-4-7 19:56:0
 tags: 

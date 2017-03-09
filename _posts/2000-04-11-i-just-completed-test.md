@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I just completed a test"
 date: 2000-4-11 9:56:0
 tags: 

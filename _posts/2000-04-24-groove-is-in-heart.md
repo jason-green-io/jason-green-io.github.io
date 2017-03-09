@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Groove is in the Heart"
 date: 2000-4-24 20:0:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm up, it's Sunday, and"
 date: 2000-4-23 17:58:0
 tags: 

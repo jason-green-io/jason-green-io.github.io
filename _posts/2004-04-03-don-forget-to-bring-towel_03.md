@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "don't forget to bring a towel"
 date: 2004-4-3 18:38:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I want to live, I want to give, I've been a miner for a heart of gold"
 date: 2004-10-17 18:48:0
 tags: 

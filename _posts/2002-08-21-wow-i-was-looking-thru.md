@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Wow, I was looking thru"
 date: 2002-8-21 16:18:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Hi Crimestoppers! Hi Steve! It's"
 date: 2000-4-4 8:13:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Wake-y wake-y, eggs and bac-y"
 date: 2004-4-30 13:21:0
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The arch at RMC"
 date: 2006-2-25 3:54:0
 tags: 

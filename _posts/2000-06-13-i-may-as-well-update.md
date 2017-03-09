@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I may as well update."
 date: 2000-6-13 11:29:0
 tags: 

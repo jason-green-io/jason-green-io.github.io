@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "happy 300th entry"
 date: 2003-5-23 13:11:0
 tags: 

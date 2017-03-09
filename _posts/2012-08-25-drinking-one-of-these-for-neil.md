@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Drinking one of these for Neil"
 date: 2012-8-25 16:41:0
 tags: 

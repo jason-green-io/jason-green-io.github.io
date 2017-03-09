@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I started college. I installed"
 date: 2000-9-7 22:52:0
 tags: 

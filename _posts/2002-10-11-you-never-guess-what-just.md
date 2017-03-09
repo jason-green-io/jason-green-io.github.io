@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "You'll never guess what just"
 date: 2002-10-11 23:58:0
 tags: 
