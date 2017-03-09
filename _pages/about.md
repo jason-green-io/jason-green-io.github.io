@@ -1,5 +1,5 @@
 ---
-ylayout: single
+layout: single
 title: "About"
 permalink: /about/
 ---
