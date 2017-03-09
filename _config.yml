@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "jason.green.io"
 title_separator          : "-"
 name                     : "Jason Green"
-description              : ""
+description              : "admin / dev / geek"
 url                      : "https://jason-green-io.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "@jason_green_io"
+  username               : "jason_green_io"
 facebook:
   username               :
   app_id                 :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "@jason_green_io"
+  twitter          : "jason_green_io"
   vine             :
   weibo            :
   xing             :
