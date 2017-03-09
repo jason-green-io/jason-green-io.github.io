@@ -1,9 +1,6 @@
 ---
-layout: single
+ylayout: single
 title: "About"
-published: false
-date: 2014-02-15
-comments: false
 permalink: /about/
 ---
 
