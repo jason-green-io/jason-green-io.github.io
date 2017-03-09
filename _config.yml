@@ -70,9 +70,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-20138763-3"
 
 
 # Site Author
@@ -80,7 +80,7 @@ author:
   name             : "Jason Green"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "Somewhere"
+  location         : "Acadie"
   email            : "jason@green.io"
   uri              :
   bitbucket        :
@@ -92,7 +92,7 @@ author:
   github           : "jason-green-io"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "jasongreenio"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -104,7 +104,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "jasongreenio" # https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
