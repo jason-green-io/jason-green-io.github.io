@@ -1,8 +1,0 @@
----
-layout: post
-title: "stupid JBOD"
-date: 2014-02-06 21:00:00
-published: true
----
-
-I own a 4 * SATA to USB disk enclosure, [this one](http://www.sansdigital.com/towerraid/tr4u.html). It was great until I plugged it into 220V without switching the power supply, oops. Now it's a door stop. One of the disks was hosting our iTunes library, so obviously I required access to that one disk. This particular model supports RAID configs. To do this, it adds an abstraction layer between the USB controller and the SATA, to turn multiple disks to one (it is a JBOD after all). I ran into problems when I used my portable SATA to USB cable to mount it on my Mac Mini server. Didn't mount. Seems this abstraction layer formats the disks (even if they're not setup as RAID) using a hybrid partition table. fdisk shows it as EE (protected partition or something). This [post](http://perrohunter.com/repair-a-mac-os-x-hfs-partition-table/) saved the day. I was sweating a little bit until I found the answer.
