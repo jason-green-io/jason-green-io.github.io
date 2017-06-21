@@ -11,6 +11,8 @@ image:
 
 With just a glance, I know the time, just like a clock in an item frame.
 
+![piclock](https://www.dropbox.com/s/pggr70tna1fe02t/piclock.png)
+
 
 # What it displays
 
