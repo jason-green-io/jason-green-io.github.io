@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Minecraft server connected Raspberry Pi clock"
-published: false
+published: true
 comments: true
 link:
 image:
