@@ -22,5 +22,6 @@ My intro to Macs consisted of playing Bolo with Al on a IIsi and his dad's Quadr
 
 My first Mac was a clamshell iBook SE, 466MHz. Got the first Airport base station with it. Also still have the original 5GB iPod, still works.
 
-These days I automate tv torrents to play on the Apple TV, do crazy things with bash scripts and find palprimes with Python.
+These days I automate tv torrents to play on the Apple TV, do crazy things with bash scripts and wrap Minecraft servers with Python.
 
+I ditched my MacBook for an iPad.
