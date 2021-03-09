@@ -111,16 +111,17 @@
                     html += "map ID " + maps[j].id + "</br>"
                     html += '<img src="./maps/' + maps[j].filename + '" height="256" width="256"/></br>'
                     var banners = maps[j].banners
+                    html += "<table>"
                     for (var k = 0; k < banners.length; k++) {
-                        html += "<span>"
-                        html += '<img style="float: left;" src="./assets/banner-images/'
-                        + banners[k][4] + 'banner.png"/>' +
-                        'text: "'+ banners[k][3] + '"</br>' +
-                        " XYZ: " + banners[k][0] + " / " + banners[k][1] + " / " + banners[k][2] + "</br>"
-                        html += "</span>"
+                        html += "<tr>"
+                        html += '<td style="vertical-align: top"><img style="float: left;" src="./assets/banner-images/'
+                        + banners[k][4] + 'banner.png"/></td>' +
+                        '<td>text: "'+ banners[k][3] + '"</br>' +
+                        " XYZ: " + banners[k][0] + " / " + banners[k][1] + " / " + banners[k][2] + "</br></td>"
+                        html += "</tr>"
                     }
                 }
-                html += "</br>"
+                html += "</table></br>"
             }
         html += "</span>"
         }
