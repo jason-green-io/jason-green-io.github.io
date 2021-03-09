@@ -120,8 +120,14 @@
                         " XYZ: " + banners[k][0] + " / " + banners[k][1] + " / " + banners[k][2] + "</br></td>"
                         html += "</tr>"
                     }
+                    var frames = maps[j].frames
+                    for (var k = 0; k < frames.length; k++) {
+                        html += "<tr>"
+                        "<td>XYZ: " + frames[k].X + " / " + frames[k].Y + " / " + frames[k].Z + "</br></td>"
+                        html += "</tr>"
+                    }
+                    html += "</table></br>"
                 }
-                html += "</table></br>"
             }
         html += "</span>"
         }
