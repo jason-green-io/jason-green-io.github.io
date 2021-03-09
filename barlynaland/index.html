@@ -171,8 +171,8 @@
             markers = JSON.parse(response);
 
             for ( var i=0; i < markers.length; ++i ) {
-                L.marker( [markers[i].Z, markers[i].X], {icon: L.divIcon({
-                    iconSize: [576, 48],
+                L.marker( [markers[i].Z, markers[i].X], {title: markers[i].name, icon: L.divIcon({
+                    //iconSize: [576, 48],
                     className: 'banner-marker',
                     html: '<img class="banner-image" src="./assets/banner-images/'
                     + markers[i].color + 'banner.png"/><span class="banner-name">'
